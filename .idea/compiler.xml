@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Eureka_Server" target="11" />
+      <module name="Eureka_Server.main" target="11" />
+      <module name="Eureka_Server.test" target="11" />
       <module name="first" target="11" />
       <module name="first.main" target="11" />
       <module name="first.test" target="11" />
