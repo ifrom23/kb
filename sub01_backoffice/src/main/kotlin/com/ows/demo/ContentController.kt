@@ -11,7 +11,7 @@ class ContentController {
 
     @GetMapping("/")
     fun index(): ResponseEntity<String> {
-        val hello = "Hello World!"
+        val hello = "Hello World!!"
         return ResponseEntity.ok(hello)
     }
 }
